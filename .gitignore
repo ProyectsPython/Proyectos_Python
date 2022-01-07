@@ -1,0 +1,5 @@
+*.db
+gestor.py
+com.py
+__pycache__
+Nueva carpeta
